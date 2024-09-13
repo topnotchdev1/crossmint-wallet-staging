@@ -1,8 +1,7 @@
 const options = {
     method: "POST",
     headers: {
-        "X-API-KEY": "sk_staging_35NkUxH5mFcr5JGTQtSCjmMbkjbNd7RDwoG65ejJ1WHpnc2cXvAvQtk8Gg9rgYuvW991TB1ZExfwiXLUFUwBQHMDtdtTUU4TMu76vrkjhobFSsAMYAhmTJjLMPS7xxyaYb8XVFxjsqR2fHQVLYJv1geikB1VzqZF88Eim6G3mSYgwmBUgWMLNb3UYBVoHPA1JvnXh28dxBeVhm92TMfR5AZ",
-        "Content-Type": "application/json",
+        "X-API-KEY": "sk_production_5NzSc85eDo6Xg8m7qogGC4gNmQn6sQKCKpJ8DYY81GGTTRTYhB2DUPGgsfBmiK7qgpwFc9zL3eGojzEENKWkdmTQ8ynkoDjkEziTGuzazhN3cwFrwLUstQXxhcVTLSbLgp89M3d2Rm4hPbVZSr62vQFPxL6hRRRDKAzUsg9YM46BB2SYrVTJ6JqBA9VZKoovnXmxidXed119WHFU8EaPNVLH",
     },
     body: '{"email": "testy@crossmint.com", "chain": "polygon-amoy"}',
 };
